@@ -1,2 +1,2 @@
 # FlappyBird
-This is a term project oop of tcn
+This is a term project OOP of tcn
